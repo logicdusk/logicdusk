@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/logicdusk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%9A%80+Bringing+ideas+from+imagination+to+the+browser;%F0%9F%A7%A9+Making+complex+things+feel+simple;%E2%9C%A8+Building+things+that+shouldn't+exist+yet;%F0%9F%93%9A+Learning+React+%E2%80%A2+AI+%E2%80%A2+3D" alt="Typing animation" />
 </a>
 
@@ -13,8 +13,8 @@
 ![Creative Coder](https://img.shields.io/badge/CREATIVE%20CODER-D4AF37?style=for-the-badge&logo=threedotjs&logoColor=black)
 ![Always Learning](https://img.shields.io/badge/ALWAYS%20LEARNING-555555?style=for-the-badge&logo=react&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=D4AF37&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/logicdusk)
+![Profile Views](https://komarev.com/ghpvc/?username=logicdusk&label=Profile%20Views&color=D4AF37&style=flat-square)
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=logicdusk&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="GitHub Stats" />
 <br/>
 
 ### 🏆 Top Languages
@@ -78,7 +78,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=2a2a2a" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=logicdusk&theme=dark&hide_border=false&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=2a2a2a" alt="GitHub Streak" />
 
 </div>
 
