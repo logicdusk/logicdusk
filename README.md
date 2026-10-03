@@ -1,58 +1,98 @@
-<!-- ===================== HEADER ===================== -->
+<!-- Header banner with name + tagline -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:E3C878&height=220&section=header&text=Azam&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Imagination%20%E2%86%92%20Browser&descSize=22&descAlignY=62" width="100%" alt="Azam" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0D0D,100:D4AF37&text=Azam&fontColor=FFFFFF&fontSize=80&fontAlignY=38&desc=Bringing%20ideas%20from%20imagination%20to%20the%20browser&descSize=18&descAlignY=60&animation=fadeIn" alt="Azam" width="100%" />
+<!-- Typing animation -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%9A%80+Bringing+ideas+from+imagination+to+the+browser;%F0%9F%A7%A9+Making+complex+things+feel+simple;%E2%9C%A8+Building+things+that+shouldn't+exist+yet;%F0%9F%93%9A+Learning+React+%E2%80%A2+AI+%E2%80%A2+3D" alt="Typing animation" />
+</a>
 
-# ✨ Hi, I'm Azam 👋
+<!-- Badges -->
+![Developer](https://img.shields.io/badge/DEVELOPER-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Creative Coder](https://img.shields.io/badge/CREATIVE%20CODER-D4AF37?style=for-the-badge&logo=threedotjs&logoColor=black)
+![Always Learning](https://img.shields.io/badge/ALWAYS%20LEARNING-555555?style=for-the-badge&logo=react&logoColor=white)
 
-**Building things with code — React • AI • 3D • everything in between**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=D4AF37&style=flat-square)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 - 🔭 I'm currently working on **bringing ideas from imagination to the browser**
 - 🤝 I'm looking to collaborate on **things that shouldn't exist yet**
 - 🆘 I'm looking for help with **making complex things feel simple**
 - 🌱 I'm currently learning **React • AI • 3D • everything in between**
 - 💬 Ask me about **building things with code**
-- ⚡ Fun fact: **one "small change" has never been a small change**
+
+> *"One 'small change' has never been a small change."*
 
 ---
 
-# 💻 Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
+**Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-</div>
+**Frontend & Creative Tech**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Cloud, Tools & Design**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
-# 📈 GitHub Stats
-
-<!-- NOTE: Replace "Md%20Azam" with your REAL GitHub username (usernames can't contain spaces) -->
+## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- Stats card: gold on near-black -->
-<img src="https://github-readme-stats.shion.dev/api?username=Md%20Azam&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=0D0D0D&border_color=1F1F1F&ring_color=D4AF37&border_radius=6" alt="Azam's GitHub Stats" />
-
-<br/><br/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=2a2a2a" alt="GitHub Stats" />
+<br/>
 
 ### 🏆 Top Languages
 
-<!-- Language badges (same look as the reference) -->
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<!-- Streak card: gold ring + flame, dark background -->
-<img src="https://streak-stats.demolab.com/?user=Md%20Azam&hide_border=false&background=0D0D0D&border=1F1F1F&stroke=FFFFFF&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border_radius=6" alt="Azam's Streak" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=2a2a2a" alt="GitHub Streak" />
 
 </div>
 
@@ -60,10 +100,9 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Md%20Azam&label=Profile%20views&color=D4AF37&style=flat-square)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D4AF37,100:0D0D0D&section=footer" width="100%" alt="" />
+*Always building. Always learning.* ✨
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:E3C878&height=120&section=footer" width="100%" alt="" />
